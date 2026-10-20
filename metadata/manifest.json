@@ -2,11 +2,13 @@
   "package": "cross-cancer-direction-audit-addendum",
   "version": "2026.10.20",
   "created": "2026-10-20",
+  "repository": "https://github.com/peng777wang/cross-cancer-direction-audit-addendum",
   "parent_repository": "https://github.com/peng777wang/cross-cancer-direction-v1",
   "parent_release": "v1.3.0",
   "parent_concept_doi": "10.5281/zenodo.23141927",
   "parent_version_doi": "10.5281/zenodo.23416675",
   "scope": "Post-v1.3.0 f07/f08 audit addendum; excludes GPB submission documents.",
+  "hash_normalization": "LF",
   "checks": {
     "f07_rows": 84,
     "f07_lead_concordance_rows": 42,
@@ -17,69 +19,74 @@
   },
   "files": [
     {
+      "path": ".gitattributes",
+      "normalized_bytes": 19,
+      "sha256_lf": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+    },
+    {
       "path": ".gitignore",
-      "bytes": 44,
-      "sha256": "973560b932e39d93030b9ce59f9fe18fa2e91630effba7288d473ecd12c746a1"
+      "normalized_bytes": 44,
+      "sha256_lf": "973560b932e39d93030b9ce59f9fe18fa2e91630effba7288d473ecd12c746a1"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1235,
-      "sha256": "a5975ac09afe9c5b175bc8f14bb06056720b3b962ec0831bc6794219d42b1a8c"
+      "normalized_bytes": 1235,
+      "sha256_lf": "a5975ac09afe9c5b175bc8f14bb06056720b3b962ec0831bc6794219d42b1a8c"
     },
     {
       "path": "docs/ANALYSIS_LOG_f07_susie_2026-10-19.md",
-      "bytes": 2625,
-      "sha256": "5f801e4c824b3535cf22ee938255e05cd97d44834c2f14af822c041cee89db70"
+      "normalized_bytes": 2625,
+      "sha256_lf": "5f801e4c824b3535cf22ee938255e05cd97d44834c2f14af822c041cee89db70"
     },
     {
       "path": "docs/PROVENANCE.md",
-      "bytes": 1774,
-      "sha256": "4786f6180791e8a4da80ddb9dd1b406153f2b495ede0ec0b1fb3be7733715acd"
+      "normalized_bytes": 1774,
+      "sha256_lf": "4786f6180791e8a4da80ddb9dd1b406153f2b495ede0ec0b1fb3be7733715acd"
     },
     {
       "path": "LICENSE",
-      "bytes": 1098,
-      "sha256": "382514c23ce60a83f3c0d3f8db03cc33412590a7027802a89bda0110ddf078b1"
+      "normalized_bytes": 1098,
+      "sha256_lf": "382514c23ce60a83f3c0d3f8db03cc33412590a7027802a89bda0110ddf078b1"
     },
     {
       "path": "logs/f07_run.log",
-      "bytes": 2797,
-      "sha256": "4ed3c13985c1862c0fcdc7a7d108592d2a4163f8cb9c412031e8656cf2faaf36"
+      "normalized_bytes": 2797,
+      "sha256_lf": "4ed3c13985c1862c0fcdc7a7d108592d2a4163f8cb9c412031e8656cf2faaf36"
     },
     {
       "path": "README.md",
-      "bytes": 3198,
-      "sha256": "edc383c09cd474a7690109c254c9976e9a6fba73bc68c7d7aa13c9c963982fa6"
+      "normalized_bytes": 3400,
+      "sha256_lf": "cfa8e8e953d457137c4fcbda59196015c482a0e3b72b64ec43a914921daf4d8c"
     },
     {
       "path": "scripts/f07_susie_p0.R",
-      "bytes": 5569,
-      "sha256": "d126dc7f11e85f87f62403415723400ea03882e9e48b2c701692eea55f4fb0bf"
+      "normalized_bytes": 5569,
+      "sha256_lf": "d126dc7f11e85f87f62403415723400ea03882e9e48b2c701692eea55f4fb0bf"
     },
     {
       "path": "scripts/f08_region_zscan.R",
-      "bytes": 3163,
-      "sha256": "c9acea1c6ac28d581a0dc485491271417d64ae8c8bdafb6cc8a6946c5bbd4885"
+      "normalized_bytes": 3163,
+      "sha256_lf": "c9acea1c6ac28d581a0dc485491271417d64ae8c8bdafb6cc8a6946c5bbd4885"
     },
     {
       "path": "source_data/f07_lead_concordance.csv",
-      "bytes": 1093,
-      "sha256": "19f6ea45fc3f662293c4f009c37a5cd65db56175383ec0cdbb7831a4318a9690"
+      "normalized_bytes": 1093,
+      "sha256_lf": "19f6ea45fc3f662293c4f009c37a5cd65db56175383ec0cdbb7831a4318a9690"
     },
     {
       "path": "source_data/f07_p0_credsets.csv",
-      "bytes": 7183,
-      "sha256": "dce4d034357b8a1b0317f3044317434f4bf1fb38f9f26f986cc2c3930b8eef88"
+      "normalized_bytes": 7183,
+      "sha256_lf": "dce4d034357b8a1b0317f3044317434f4bf1fb38f9f26f986cc2c3930b8eef88"
     },
     {
       "path": "source_data/f08_region_zscan.csv",
-      "bytes": 3343,
-      "sha256": "4eef54430f61d89f79f984ac45220365e703e510cc63c2498966c076097779be"
+      "normalized_bytes": 3343,
+      "sha256_lf": "4eef54430f61d89f79f984ac45220365e703e510cc63c2498966c076097779be"
     },
     {
       "path": "source_data/Supplementary_Table_12_region_zscan.csv",
-      "bytes": 2421,
-      "sha256": "8a0620f1f66580022a658627b86a6e8309e2262b43d1cbae50e02e4bad9eb982"
+      "normalized_bytes": 2378,
+      "sha256_lf": "e1d4fe1f2aebdd63dedf6b41586a75c87a121ece9aa042bc3196d55be81ac795"
     }
   ]
 }

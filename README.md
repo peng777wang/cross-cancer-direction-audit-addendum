@@ -77,6 +77,10 @@ summary statistics. No individual-level data are included. Input datasets and
 accessions are documented in Supplementary Table 1 of the associated
 manuscript.
 
+Text line endings are normalized to LF. The SHA-256 manifest hashes the
+LF-normalized file contents so that verification is independent of whether the
+package is downloaded on Windows, macOS or Linux.
+
 If you use this addendum, cite it together with the parent analysis release
 above.
 
