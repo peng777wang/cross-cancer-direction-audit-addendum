@@ -1,0 +1,55 @@
+Rfast loaded: TRUE 
+P0 loci to consider: 42 
+L157 rs12223972  +2 rows  (file now 1 loci)
+ TRUEL158 rs10896429  +2 rows  (file now 2 loci)
+ TRUEL159 rs8079315  +2 rows  (file now 3 loci)
+ TRUEL235 rs72853920  +2 rows  (file now 4 loci)
+ TRUEL236 rs77050488  +2 rows  (file now 5 loci)
+ TRUEL237 rs118097379  +2 rows  (file now 6 loci)
+ TRUEL238 rs7223387  +2 rows  (file now 7 loci)
+ TRUEL239 rs847560  +2 rows  (file now 8 loci)
+ TRUEL240 rs55914512  +2 rows  (file now 9 loci)
+ TRUEL241 rs6533183  +2 rows  (file now 10 loci)
+ TRUEL242 rs12169371  +2 rows  (file now 11 loci)
+ TRUEL243 rs139653137  +2 rows  (file now 12 loci)
+ TRUEL244 rs12796066  +2 rows  (file now 13 loci)
+ TRUEL245 rs11768309  +2 rows  (file now 14 loci)
+ TRUEL246 rs35907927  +2 rows  (file now 15 loci)
+ TRUEL247 rs7808528  +2 rows  (file now 16 loci)
+ TRUEL248 rs10107982  +2 rows  (file now 17 loci)
+ TRUEL249 rs13240869  +2 rows  (file now 18 loci)
+ TRUEL250 rs7804318  +2 rows  (file now 19 loci)
+ TRUEL251 rs10743181  +2 rows  (file now 20 loci)
+ TRUEL252 rs12670686  +2 rows  (file now 21 loci)
+ TRUEL253 rs117520198  +2 rows  (file now 22 loci)
+ TRUEL254 rs113094235  +2 rows  (file now 23 loci)
+ TRUEL255 rs75321049  +2 rows  (file now 24 loci)
+ TRUEL256 rs11043050  +2 rows  (file now 25 loci)
+ TRUEL257 rs381194  +2 rows  (file now 26 loci)
+ TRUEL258 rs79357683  +2 rows  (file now 27 loci)
+ TRUEL259 rs79485992  +2 rows  (file now 28 loci)
+ TRUEL260 rs71277158  +2 rows  (file now 29 loci)
+ TRUEL261 rs7823764  +2 rows  (file now 30 loci)
+ TRUEL262 rs72853954  +2 rows  (file now 31 loci)
+ TRUEL263 rs1487240  +2 rows  (file now 32 loci)
+ TRUEL264 rs7791463  +2 rows  (file now 33 loci)
+ TRUEL265 rs10896439  +2 rows  (file now 34 loci)
+ TRUEL266 rs17027650  +2 rows  (file now 35 loci)
+ TRUEL267 rs4075003  +2 rows  (file now 36 loci)
+ TRUEL268 rs28615829  +2 rows  (file now 37 loci)
+ TRUEL269 rs75753382  +2 rows  (file now 38 loci)
+ TRUEL270 rs7823297  +2 rows  (file now 39 loci)
+ TRUEL271 rs7837328  +2 rows  (file now 40 loci)
+ TRUEL272 rs2124597  +2 rows  (file now 41 loci)
+ TRUEL273 rs11564691  +2 rows  (file now 42 loci)
+ TRUE警告信息:
+1: In susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  :
+  IBSS algorithm did not converge in 1000 iterations!
+                  Please check consistency between summary statistics and LD matrix.
+                  See https://stephenslab.github.io/susieR/articles/susierss_diagnostic.html
+2: In susie_suff_stat(XtX = XtX, Xty = Xty, n = n, yty = (n - 1) *  :
+  IBSS algorithm did not converge in 1000 iterations!
+                  Please check consistency between summary statistics and LD matrix.
+                  See https://stephenslab.github.io/susieR/articles/susierss_diagnostic.html
+same top SNP across arms: 0 of 42 
+F07_DONE rows = 84 

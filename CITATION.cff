@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this audit addendum, cite it together with the parent v1.3.0 analysis release."
+title: "Cross-cancer direction audit addendum: rejected SuSiE fine-mapping and LD-independent regional z scan"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Peng
+  - family-names: Li
+    given-names: Wen
+  - family-names: An
+    given-names: Jianlei
+  - family-names: Sun
+    given-names: Guogui
+version: "2026.10.20"
+date-released: "2026-10-20"
+license: MIT
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23141927"
+    description: "Concept DOI of the parent cross-cancer direction analysis"
+  - type: doi
+    value: "10.5281/zenodo.23416675"
+    description: "Exact DOI of parent release v1.3.0"
+references:
+  - type: software
+    title: "peng777wang/cross-cancer-direction-v1: v1.3.0"
+    authors:
+      - family-names: Wang
+        given-names: Peng
+      - family-names: Li
+        given-names: Wen
+      - family-names: An
+        given-names: Jianlei
+      - family-names: Sun
+        given-names: Guogui
+    version: "v1.3.0"
+    repository-code: "https://github.com/peng777wang/cross-cancer-direction-v1"
+    identifiers:
+      - type: doi
+        value: "10.5281/zenodo.23416675"
